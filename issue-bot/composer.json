@@ -4,7 +4,7 @@
 		"knplabs/github-api": "^3.0",
 		"guzzlehttp/guzzle": "^7.0.1",
 		"http-interop/http-factory-guzzle": "^1.0",
-		"nette/utils": "^3.2",
+		"nette/utils": "^4.0",
 		"php-http/client-common": "^2.3",
 		"php-http/discovery": "^1.13",
 		"sebastian/diff": "^4.0",
